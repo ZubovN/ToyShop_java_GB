@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Main {
-    private static final String file_name = "JavaToyShop-master\\Winners";
+    private static final String file_name = "ToyShop_java_GB-main\\Winners";
     private static final Queue<Lot> prizes = new LinkedList<Lot>();
     private static final Lototron lototron = new Lototron();
 
